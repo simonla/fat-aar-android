@@ -34,11 +34,11 @@ dependencies {
 //}
 
 publish {
-    userOrg = 'kezong'
-    groupId = 'com.kezong'
+    userOrg = 'complexzeng'
+    groupId = 'com.complexzeng'
     artifactId = 'fat-aar'
-    publishVersion = '1.2.5'
+    publishVersion = '2.2.12'
     desc = 'Gradle plugin for merging dependencies applies to gradle plugin version 3.+'
-    website = 'https://github.com/kezong/fat-aar-android'
+    website = 'https://github.com/simonla/fat-aar-android'
 }
 
